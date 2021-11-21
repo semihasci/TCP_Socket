@@ -1,0 +1,3 @@
+﻿  client.cpp
+D:\uygulama_c\server-client\server\client\client.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  client.vcxproj -> D:\uygulama_c\server-client\server\Debug\client.exe

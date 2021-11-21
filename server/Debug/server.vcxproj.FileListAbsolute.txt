@@ -1,0 +1,2 @@
+D:\uygulama_c\server-client\server\Debug\server.exe.lastcodeanalysissucceeded
+D:\uygulama_c\server-client\server\server\Debug\NativeCodeAnalysis.read.1.tlog
